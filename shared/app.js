@@ -8,4 +8,4 @@ const message = {
   }
 };
 
-exports = { mesages };
+exports = { mesage };
